@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.wangwl.net/rss.xml"
-          template: "<a src='$url' target=_blank>$title</a>"
+          template: "· <a href='$url' target=_blank>$title</a> "
