@@ -1,3 +1,8 @@
+☹️ I hate stock. I want my money back.
+<br/> 
+😭 And I'm hireable. 
+<br/>
+
 <!--
 **relax-code-relax-life/relax-code-relax-life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
