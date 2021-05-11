@@ -16,19 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 12 hrs 7 mins       █████████████████░░░░░░░░   69.86% 
-JavaScript               3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
-Java                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
-TypeScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82% 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
 ```
 
