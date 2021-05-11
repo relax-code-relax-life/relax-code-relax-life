@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <br/><br/>
 
 
-<!-- BLOG-POST-LIST:START -->· <a href='https://wangwl.net/static/pages/unicode.html' target=_blank>一文彻底搞懂Unicode编码问题</a>· <a href='https://wangwl.net/static/pages/sitemap_format.html' target=_blank>XML站点地图的格式规范</a>· <a href='https://wangwl.net/static/pages/starting_ts_project.html' target=_blank>如何从零创建一个TypeScript项目</a>· <a href='https://wangwl.net/static/pages/sqlite_datatype.html' target=_blank>SQLite的数据类型</a>· <a href='https://wangwl.net/static/pages/sqlite_rowid.html' target=_blank>SQLite的ROWID字段</a><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- <a href='https://wangwl.net/static/pages/unicode.html' target=_blank>一文彻底搞懂Unicode编码问题</a>- <a href='https://wangwl.net/static/pages/sitemap_format.html' target=_blank>XML站点地图的格式规范</a>- <a href='https://wangwl.net/static/pages/starting_ts_project.html' target=_blank>如何从零创建一个TypeScript项目</a>- <a href='https://wangwl.net/static/pages/sqlite_datatype.html' target=_blank>SQLite的数据类型</a>- <a href='https://wangwl.net/static/pages/sqlite_rowid.html' target=_blank>SQLite的ROWID字段</a><!-- BLOG-POST-LIST:END -->
