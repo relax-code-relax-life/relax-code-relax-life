@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <!--
 **relax-code-relax-life/relax-code-relax-life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<embed src="https://wakatime.com/share/@af4e5be6-9435-498c-bf69-dc1ee7be920f/4ac9f278-2a4c-4902-84f8-92480b8b6a46.svg"></embed>
+
+<img src="https://wakatime.com/share/@af4e5be6-9435-498c-bf69-dc1ee7be920f/4ac9f278-2a4c-4902-84f8-92480b8b6a46.svg"  width=600>
