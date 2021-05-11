@@ -2,7 +2,7 @@
 <br/> 
 
 - 😭　And I'm hireable.  <br/>
-- 📒　[https://wangwl.net](https://wangwl.net) <br/>
+- 🔗　[https://wangwl.net](https://wangwl.net) <br/>
 - 📧　[wangwl@wangwl.net](mailto:wangwl@wangwl.net) <br/>
 
 <br/>
@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+✏️　Latest Blog Posts 
+<br/><br/>
+
 
 <!-- BLOG-POST-LIST:START -->
 - [一文彻底搞懂Unicode编码问题](https://wangwl.net/static/pages/unicode.html)
