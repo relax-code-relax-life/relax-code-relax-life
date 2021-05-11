@@ -1,6 +1,10 @@
 ☹️ I hate stock. I want my money back.
 <br/> 
-😭 And I'm hireable. 
+
+😭 - And I'm hireable.  <br/>
+📒 - [https://wangwl.net](https://wangwl.net) <br/>
+📧 - [wangwl@wangwl.net](mailto:wangwl@wangwl.net) <br/>
+
 <br/>
 
 <!--
