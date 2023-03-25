@@ -2,8 +2,10 @@
 <br/> 
 
 - 😭　And I'm hireable.  <br/>
-- 🔗　[https://wangwl.net](https://wangwl.net) <br/>
-- 📧　[wangwl@wangwl.net](mailto:wangwl@wangwl.net) <br/>
+- 🖋　ZhiHu知乎 [https://www.zhihu.com/people/w-w-l](https://www.zhihu.com/people/w-w-l) <br/>
+- 🎀　XiaoHongShu小红书 [https://www.xiaohongshu.com/user/profile/5c4a71e5000000001101fdda](https://www.xiaohongshu.com/user/profile/5c4a71e5000000001101fdda)  <br/>
+- 🔗　Blog博客 [https://wangwl.net](https://wangwl.net) <br/>
+- 📧　Email邮箱 [wangwl@wangwl.net](mailto:wangwl@wangwl.net) <br/>
 
 <br/>
 
